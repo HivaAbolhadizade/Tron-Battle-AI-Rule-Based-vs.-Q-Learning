@@ -42,7 +42,7 @@ Simple Algorithm: Works well in open environments but struggles with obstacles.
 
 Q-Learning: Adapts and improves over time, handling dynamic environments better.
 
-## Trade-offs:
+## Trade-offs
 Q-Learning requires more computational resources and training time.
 
 ## Conclusion & Future Work
